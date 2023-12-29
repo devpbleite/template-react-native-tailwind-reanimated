@@ -1,1 +1,1 @@
-# template-react-native-tailwind-reanimated
+# Template react native with tailwind css and reanimated.
